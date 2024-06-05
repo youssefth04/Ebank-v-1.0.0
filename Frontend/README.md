@@ -1,0 +1,6 @@
+registration          -->(Signup.js)
+authentification      -->(Login.js)
+send money            -->(Transfer.js)
+request money         -->(request.js)
+convert currency      -->(currencyconverter.js)
+link account with card    -->(LinkcardPopup.js)
